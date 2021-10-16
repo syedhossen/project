@@ -1,0 +1,229 @@
+/*Common CSS Starts*/
+*{
+	margin: 0px;
+}
+
+
+body{
+	font-family: sans-serif;
+
+}
+/*Common CSS Ends*/
+
+/*Notary Header Starts */
+.nottary{
+	
+	padding: 8px 0px;
+}
+.notaryh1 {
+	text-align: center;
+}
+.notaryheader{
+
+}
+.notarywrapper{
+	width: 60%;
+	margin: 0px auto;
+    overflow: hidden;
+
+}
+.notarylogo{
+	float: left;
+	width: 18%;
+
+}
+.notarylogo img{
+	width: 100%;
+}
+.notarymenu{
+	float: right;
+	width: 81%;
+	margin-top: 5px;
+}.notarymenu ul{
+	float: right;
+}
+
+
+.notarymenu li{
+	list-style:none;
+	float: left;
+	}
+
+
+.notarymenu li a{
+	text-decoration:none;
+	padding: 5px 9px;
+	color: black;
+	display: inline-block;
+	font-size:14px;
+
+
+}
+.notarymenu li:first-child a{
+	color: #DD95A3;
+
+}
+.notarymenu li:last-child a{
+	padding-right: 0px;
+
+}
+
+
+/*Notary Header Ends */
+
+/*Blue Header CSS Starts*/
+.blueheader{
+	background-color:#121B2A;
+	 
+}
+.bluewrapper{
+	width: 80%;
+	margin: 0px auto;
+	/*border: 1px solid red;*/
+	overflow: hidden;
+}
+.blueimg{
+	float: left;
+
+}
+.bluemenu{
+	width: 70%;
+	float: right;
+	/*border: 2px solid black;*/
+}
+
+.bluelogin{
+	/*border: 1px solid blue;*/
+	overflow :hidden;
+}
+.bluelogin ul{
+	float: right;
+}
+.bluelogin ul li{
+    list-style: none;
+    float: left;
+	}
+
+.bluelogin ul li a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 5px 15px;
+	text-transform: uppercase;
+}
+.bluelogin ul li:first-child a{
+	background-color: white;
+	color: black;
+}
+.bluelogin ul li:last-child a {
+	background-color: #0078BD;
+	color: white;
+}
+
+.navbar{
+	/*border: 1px solid yellow;*/
+	margin-top: 12px;
+	margin-bottom: 0;
+	overflow :hidden;
+}
+.navbar ul{
+	float: right;
+}
+.navbar ul li{
+    list-style: none;
+    float: left;
+	}
+
+.navbar ul li a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 15px 15px;
+	text-transform: uppercase;
+	color: white;
+
+}
+.navbar ul li:first-child a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 15px 15px;
+	text-transform: uppercase;
+	color: #0078BD;
+}
+.navbar ul li:last-child a {
+	padding-right: 0;
+}
+/*Blue Header CSS Ends*/
+/*Header CSS Starts*/
+
+
+
+.quickheader{
+	padding:  0;
+	
+}
+.quickwrapper{
+	margin: 0px auto;
+	width: 90%;
+	overflow: hidden;
+	
+		}
+.logo{
+
+	width: 10%;
+	float: left;
+	margin-top: 2px;
+}
+.logo img{
+	 width: 100%;
+}
+.menu{
+	width: 55%;
+	float: right;
+	margin-top:;
+}
+.menu ul{
+	float: right;
+
+}
+.menu ul li{
+	list-style:none;
+	float: left;
+	
+
+}
+.menu ul li a {
+	text-decoration: none;
+	padding: 20px 20px;
+	display: inline-block;
+
+}
+.menu ul li:last-child a {
+	padding-right: 0;
+}
+/*Header Ends*/
+/*Banner Starts*/
+.banner{
+
+}
+.bannerwrapper{
+	width: 65%;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+.bannercontent{
+	text-align: center;
+	color: #0A2152;
+}
+.bannerh1{
+	font-size: 60px;
+	margin: 0px;
+}
+.banner_span{
+	color: #0084FF;
+}
+.bannerp{
+	margin: 0px;
+	font-size: 16px;
+}
+
+
+/*Banner Ends*/
