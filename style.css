@@ -212,18 +212,19 @@ body{
 .bannercontent{
 	text-align: center;
 	color: #0A2152;
-	margin-top:50px;
+	margin-top: 80px;
 }
 .bannerh1{
 	font-size: 60px;
-
+	
 }
 .banner_span{
 	color: #0084FF;
 }
 .bannerp{
-	
+	margin: 0px;
 	font-size: 16px;
+	line-height: 26px;
 }
 
 
